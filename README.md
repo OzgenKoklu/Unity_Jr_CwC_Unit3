@@ -1,13 +1,6 @@
 # Unity Learn JR pathway
 Unity Learn JR path is awesome, I would suggest it to anyone who wants to learn how to make games. It does also give important tips and tricks on what you should do in order to have a clean looking code. 
 
-# Short Gameplay clip - (coming after I complete bonus challenges & add the Challenge Scene )
-
-I made Unit 3 Challenges as a separate Unity project, I will unite two projects and update this repo. \
-In Unity Learn, there are some game logic challenges that are completely optional, they go from easy to hard, and generally include things that are beyond the scope of the educational material\ 
-I find it fun to complete them, I will soon complete them when I have some spare time, and when I do, I will put a gameplay video here.\
-After completing the Jr path with all of it's challenges , I will also add all the scenes in one big package and release a WebGL version of the 10 mini games I've developed. Look forward to it.
-
 # Engine features, Game mechanics & Other on-screen actions using C# Scripting in this step by step tutorial
 Intro to addforce, physics calculations in Unity. \
 Smoke and mirrors trick of repeating backgrounds. \
